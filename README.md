@@ -40,7 +40,7 @@
 
 <h2>五、联系我们</h2>
 <p>如您对本隐私政策有任何疑问、意见或建议，可通过以下方式联系我们：</p>
-<p>邮箱：yourname@example.com</p>
+<p>邮箱：361139393qq@gmail.com</p>
 
 </body>
 </html>
